@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aga
+- 👋 Hi, I’m @AgaJava
 - 👀 I’m interested in Handball and Books
 - 🌱 I’m currently learning Git Hub, Java and QA
 - 💞️ I’m looking to collaborate on ...
